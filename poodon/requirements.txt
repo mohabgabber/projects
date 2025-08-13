@@ -16,7 +16,7 @@ pycodestyle==2.9.1
 pycryptodomex==3.19.1
 pyfiglet==0.8.post1
 pygeoip==0.3.2
-pyPdf==1.13
+pyPdf==6.0.0
 pyppmd==0.18.3
 python-nmap==0.7.1
 pyzipper==0.3.6
